@@ -1,0 +1,830 @@
+[
+  {
+    "text": "Nada vale mais do que o preço da Paz",
+    "author": "Eduardo Gomes"
+  },
+  {
+    "text": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+    "author": "Robert Collier"
+  },
+  {
+    "text": "A persistência é o caminho do êxito.",
+    "author": "Charles Chaplin"
+  },
+  {
+    "text": "O único lugar onde o sucesso vem antes do trabalho é no dicionário.",
+    "author": "Vidal Sassoon"
+  },
+  {
+    "text": "Acredite que você pode, assim você já está no meio do caminho.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "Desistir nunca. O caminho para o sucesso é a constância do propósito.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "O futuro pertence àqueles que acreditam na beleza de seus sonhos.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "Faça da dificuldade a sua motivação.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "O fracasso é a oportunidade de começar de novo com mais inteligência.",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "A melhor maneira de prever o futuro é criá-lo.",
+    "author": "Peter Drucker"
+  },
+  {
+    "text": "Nada é impossível, a palavra já diz: ‘eu sou possível!’",
+    "author": "Audrey Hepburn"
+  },
+  {
+    "text": "Grandes realizações são possíveis quando não nos importamos com quem receberá o crédito.",
+    "author": "Harry Truman"
+  },
+  {
+    "text": "A felicidade não está na estrada que leva a algum lugar. A felicidade é a própria estrada.",
+    "author": "Bob Dylan"
+  },
+  {
+    "text": "É melhor tentar e falhar, que preocupar-se e ver a vida passar.",
+    "author": "Sarah Westphal"
+  },
+  {
+    "text": "Nossos fracassos, às vezes, são mais frutíferos do que os êxitos.",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "Nada grandioso foi jamais alcançado sem entusiasmo.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Coragem é resistência ao medo, domínio do medo, e não ausência do medo.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "A vida é 10% do que acontece comigo e 90% de como eu reajo a isso.",
+    "author": "Charles Swindoll"
+  },
+  {
+    "text": "Mesmo que algo pareça difícil, nunca desista antes de tentar.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "A maior glória não está em nunca cair, mas em se levantar toda vez que caímos.",
+    "author": "Confúcio"
+  },
+  {
+    "text": "O insucesso é apenas uma oportunidade para recomeçar com mais inteligência.",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "Se você quer alcançar a excelência, comece já. Não existe o melhor momento.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Você é do tamanho dos seus sonhos.",
+    "author": "Fernando Pessoa"
+  },
+  {
+    "text": "O que você pensa, você cria. O que você sente, você atrai. O que você acredita, se torna realidade.",
+    "author": "Buda"
+  },
+  {
+    "text": "Jamais desista de um sonho só por causa do tempo que levará para realizá-lo. O tempo vai passar de qualquer forma.",
+    "author": "Earl Nightingale"
+  },
+  {
+    "text": "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.",
+    "author": "Roberto Shinyashiki"
+  },
+  {
+    "text": "A coragem não é ausência de medo, é a persistência apesar do medo.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "O verdadeiro homem mede a sua força quando se defronta com o obstáculo.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "text": "Seja a mudança que você quer ver no mundo.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "Acredite. Tudo pode ser mudado.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "text": "Motivação é o que te faz começar. Hábito é o que te faz continuar.",
+    "author": "Jim Ryun"
+  },
+  {
+    "text": "Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada, apenas dê o primeiro passo.",
+    "author": "Martin Luther King"
+  },
+  {
+    "text": "Nunca é tarde demais para ser aquilo que você sempre quis ser.",
+    "author": "George Eliot"
+  },
+  {
+    "text": "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "As grandes realizações são possíveis quando lutamos com fé e determinação.",
+    "author": "Harvey Mackay"
+  },
+  {
+    "text": "Com disciplina e determinação, é possível conquistar o impossível.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Tudo parece impossível até que seja feito.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "A maior recompensa pelo nosso trabalho não é o que ganhamos, mas o que nos tornamos com ele.",
+    "author": "John Ruskin"
+  },
+  {
+    "text": "Torne-se aquilo que você acredita.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "Nunca deixe que os seus medos decidam o seu futuro.",
+    "author": "Barack Obama"
+  },
+  {
+    "text": "Faça hoje o que outros não querem, faça amanhã o que outros não podem.",
+    "author": "Jerry Rice"
+  },
+  {
+    "text": "O melhor modo de prever o futuro é inventá-lo.",
+    "author": "Alan Kay"
+  },
+  {
+    "text": "A sorte favorece a mente preparada.",
+    "author": "Louis Pasteur"
+  },
+  {
+    "text": "Transforme seus sonhos em metas, depois em planos, e finalmente em ações.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "A verdadeira motivação vem de realização, desenvolvimento pessoal, satisfação no trabalho e reconhecimento.",
+    "author": "Frederick Herzberg"
+  },
+  {
+    "text": "Quando você acredita, tudo torna-se possível.",
+    "author": "Cristiano Ronaldo"
+  },
+  {
+    "text": "A diferença entre o possível e o impossível está na vontade humana.",
+    "author": "Louis Pasteur"
+  },
+  {
+    "text": "A mente é tudo. Você se torna aquilo que você pensa.",
+    "author": "Buda"
+  },
+  {
+    "text": "O segredo do sucesso é continuar avançando apesar das adversidades.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "O caminho para o sucesso é fazer o que você teme.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Não espere por oportunidades extraordinárias. Aproveite ocasiões comuns e as torne grandes.",
+    "author": "Orison Swett Marden"
+  },
+  {
+    "text": "A única forma de fazer um excelente trabalho é amar o que faz.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "O que nos impede de alcançar nossos objetivos são nossos próprios medos.",
+    "author": "Shakespeare"
+  },
+  {
+    "text": "Quem quer vencer um obstáculo deve armar-se da força do leão e da prudência da serpente.",
+    "author": "Píndaro"
+  },
+  {
+    "text": "A ação é o antídoto para o medo.",
+    "author": "David J. Schwartz"
+  },
+  {
+    "text": "O sucesso não é a chave para felicidade. Felicidade é a chave para o sucesso.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "text": "Aquilo que você mais deseja está do outro lado do medo.",
+    "author": "George Addair"
+  },
+  {
+    "text": "Você nunca sabe que resultados virão de sua ação. Mas se você não fizer nada, não existirão resultados.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "Que os sonhos sejam maiores que os medos, e as ações mais fortes que as palavras.",
+    "author": "Augusto Cury"
+  },
+  {
+    "text": "Foque no positivo, espere sempre o melhor e o melhor virá.",
+    "author": "Bob Proctor"
+  },
+  {
+    "text": "Não sobrevive o mais forte, nem o mais inteligente, mas o que melhor se adapta às mudanças.",
+    "author": "Charles Darwin"
+  },
+  {
+    "text": "As oportunidades não surgem. É você quem as cria.",
+    "author": "Chris Grosser"
+  },
+  {
+    "text": "Nós nos tornamos aquilo que pensamos.",
+    "author": "Earl Nightingale"
+  },
+  {
+    "text": "A vida começa onde termina a sua zona de conforto.",
+    "author": "Neale Donald Walsch"
+  },
+  {
+    "text": "Não espere pelo momento perfeito. Aproveite o momento e faça-o perfeito.",
+    "author": "Zoey Sayward"
+  },
+  {
+    "text": "O entusiasmo é a maior força da alma.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "A superação é o segredo dos campeões.",
+    "author": "Bernardinho"
+  },
+  {
+    "text": "Sucesso é a soma de pequenos esforços — repetidos dia sim, e no outro dia também.",
+    "author": "Robert Collier"
+  },
+  {
+    "text": "Nossos maiores medos estão apenas em nossa mente.",
+    "author": "Dale Carnegie"
+  },
+  {
+    "text": "Nunca é tarde para recomeçar.",
+    "author": "Cora Coralina"
+  },
+  {
+    "text": "Grandes batalhas só são dadas para grandes lutadores.",
+    "author": "Chico Xavier"
+  },
+  {
+    "text": "Acredite: cada obstáculo superado é um passo rumo ao seu sucesso.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Motivação é aquilo que te faz começar. Hábito é aquilo que te faz continuar.",
+    "author": "Jim Ryun"
+  },
+  {
+    "text": "O fracasso é o tempero que dá sabor ao sucesso.",
+    "author": "Truman Capote"
+  },
+  {
+    "text": "As pessoas costumam dizer que a motivação não dura. Bem, nem o banho – por isso recomenda-se diariamente.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "text": "Sonhe grande e ouse falhar.",
+    "author": "Norman Vaughan"
+  },
+  {
+    "text": "Não importa o quão devagar você vá, desde que não pare.",
+    "author": "Confúcio"
+  },
+  {
+    "text": "A motivação empurra você. A autodisciplina leva você além.",
+    "author": "John Maxwell"
+  },
+  {
+    "text": "Não tenha medo de desistir do bom para perseguir o ótimo.",
+    "author": "John D. Rockefeller"
+  },
+  {
+    "text": "Você nunca é velho demais para definir outro objetivo ou sonhar um novo sonho.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "text": "Lute pelo seu impossível até ele se tornar real.",
+    "author": "Mário Quintana"
+  },
+  {
+    "text": "O que nos torna diferentes é o quanto somos capazes de persistir.",
+    "author": "Cristiano Ronaldo"
+  },
+  {
+    "text": "O segredo não é correr atrás das borboletas, é cuidar do jardim para que elas venham até você.",
+    "author": "Mário Quintana"
+  },
+  {
+    "text": "O primeiro passo para chegar a algum lugar é decidir que você não vai ficar onde está.",
+    "author": "J.P. Morgan"
+  },
+  {
+    "text": "A distância entre o sonho e a realidade é a disciplina.",
+    "author": "Augusto Cury"
+  },
+  {
+    "text": "Não importa quantas vezes você falhe. Você só precisa estar certo uma vez.",
+    "author": "Mark Cuban"
+  },
+  {
+    "text": "Não espere por uma crise para descobrir o que é importante em sua vida.",
+    "author": "Platão"
+  },
+  {
+    "text": "Se você quer ser feliz, estabeleça uma meta que comande seus pensamentos.",
+    "author": "Andrew Carnegie"
+  },
+  {
+    "text": "O que não provoca minha morte faz crescer minha força.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "text": "Toda conquista começa com a decisão de tentar.",
+    "author": "Gail Devers"
+  },
+  {
+    "text": "Os desafios são as pedras com que construímos a nossa estrada.",
+    "author": "Victor Hugo"
+  },
+  {
+    "text": "O maior prazer da vida é fazer o que as pessoas dizem que você não é capaz.",
+    "author": "Walter Bagehot"
+  },
+  {
+    "text": "O homem que move montanhas começa carregando pequenas pedras.",
+    "author": "Confúcio"
+  },
+  {
+    "text": "Se não puder voar, corra. Se não puder correr, ande. Se não puder andar, rasteje, mas continue em frente de qualquer jeito.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "text": "Nunca desista de um sonho por causa do tempo que levará para realizá-lo. O tempo passará de qualquer forma.",
+    "author": "Earl Nightingale"
+  },
+  {
+    "text": "Acredite em milagres, mas não dependa deles.",
+    "author": "Immanuel Kant"
+  },
+  {
+    "text": "A disciplina é a mãe do sucesso.",
+    "author": "Ésquilo"
+  },
+  {
+    "text": "De todas as coisas que você veste, sua atitude é a mais importante.",
+    "author": "Jeff Moore"
+  },
+  {
+    "text": "Toda ação humana, quer se torne positiva ou negativa, precisa depender de motivação.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "Às vezes, coisas ruins acontecem para colocarmos as coisas no lugar.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Insista, persista e nunca desista.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Não há limites para quem acredita em si mesmo.",
+    "author": "Michael Jordan"
+  },
+  {
+    "text": "Seja corajoso. Mesmo que não seja, finja ser. Ninguém nota a diferença.",
+    "author": "Aristóteles"
+  },
+  {
+    "text": "Transforme obstáculos em oportunidades.",
+    "author": "Michael Jordan"
+  },
+  {
+    "text": "Você não pode cruzar o mar apenas olhando a água.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "text": "Prepare-se. Oportunidade e preparo geram sorte.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo.",
+    "author": "José de Alencar"
+  },
+  {
+    "text": "Somos aquilo que repetidamente fazemos.",
+    "author": "Aristóteles"
+  },
+  {
+    "text": "O fracasso não existe para aqueles que não desistem.",
+    "author": "Augusto Cury"
+  },
+  {
+    "text": "A única pessoa que você está destinado a se tornar é a pessoa que você decide ser.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "A vida é curta, não perca tempo vivendo o sonho de outra pessoa.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Grandes ideias precisam de asas, mas também de raízes.",
+    "author": "Augusto Cury"
+  },
+  {
+    "text": "A motivação é o combustível necessário para manter a chama do sucesso acesa.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "No meio da dificuldade encontra-se a oportunidade.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Nunca se compare a ninguém. Você é único.",
+    "author": "Augusto Cury"
+  },
+  {
+    "text": "As grandes coisas nunca vêm da zona de conforto.",
+    "author": "Neil Strauss"
+  },
+  {
+    "text": "Foque na solução, não no problema.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "text": "Você não precisa ser grande para começar, mas precisa começar para ser grande.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "text": "Seja forte o suficiente para começar e paciente o suficiente para terminar.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "A energia e a persistência conquistam todas as coisas.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Pensar grande e agir pequeno.",
+    "author": "Al Ries"
+  },
+  {
+    "text": "Às vezes, pequenas decisões mudam para sempre sua vida.",
+    "author": "Keri Russell"
+  },
+  {
+    "text": "A motivação bate na porta do sucesso e nunca desiste.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.",
+    "author": "Roberto Shinyashiki"
+  },
+  {
+    "text": "O importante não é vencer todos os dias, mas lutar sempre.",
+    "author": "Waldemar Valle Martins"
+  },
+  {
+    "text": "Liberdade é pouco. O que desejo ainda não tem nome.",
+    "author": "Clarice Lispector"
+  },
+  {
+    "text": "O topo do mundo não é destinado aos mais fortes, mas aos que nunca desistem.",
+    "author": "Augusto Cury"
+  },
+  {
+    "text": "Não podemos mudar o vento, mas podemos ajustar as velas.",
+    "author": "Aristóteles"
+  },
+  {
+    "text": "Se você quer algo novo, precisa parar de fazer sempre o mesmo.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "As melhores conquistas exigem grandes esforços.",
+    "author": "Platão"
+  },
+  {
+    "text": "A vida só pode ser compreendida, olhando-se para trás; mas só pode ser vivida, olhando-se para frente.",
+    "author": "Søren Kierkegaard"
+  },
+  {
+    "text": "O poder está dentro de você.",
+    "author": "Rhonda Byrne"
+  },
+  {
+    "text": "A chave para o sucesso é focar a mente consciente nas coisas que desejamos, não nas que tememos.",
+    "author": "Brian Tracy"
+  },
+  {
+    "text": "Coragem é a resistência ao medo e o domínio do medo, não a ausência dele.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "Ninguém é igual a você. Isso te torna incrível.",
+    "author": "Coco Chanel"
+  },
+  {
+    "text": "Seja quem você quer ser, não o que os outros querem que você seja.",
+    "author": "Dr. Seuss"
+  },
+  {
+    "text": "Os sonhos determinam o que você quer; a ação determina o que você conquista.",
+    "author": "Tom Bradley"
+  },
+  {
+    "text": "O segredo do sucesso está na coragem de tentar.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "Aprenda com o ontem, viva o hoje e espere o amanhã.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "A vida é feita de mudanças, não de perguntas.",
+    "author": "Fernando Pessoa"
+  },
+  {
+    "text": "Aquele que não luta pelo futuro que quer, deve aceitar o futuro que vier.",
+    "author": "Jean Paul Sartre"
+  },
+  {
+    "text": "A maneira mais eficaz de fazer algo é fazer.",
+    "author": "Amelia Earhart"
+  },
+  {
+    "text": "Fracos nunca tentam. Os fortes não desistem.",
+    "author": "Augusto Cury"
+  },
+  {
+    "text": "É preciso coragem para ser diferente e muita competência para fazer a diferença.",
+    "author": "Clarice Lispector"
+  },
+  {
+    "text": "Continue! Todo esforço tem sua recompensa.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Esforço é a base de toda conquista.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Deixe que suas conquistas falem por você.",
+    "author": "Almir Sater"
+  },
+  {
+    "text": "O maior erro que você pode cometer é o de ficar o tempo todo com medo de cometer algum.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "text": "Acredite mais em você do que qualquer outra pessoa.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "Fracasso não é cair, é recusar-se a levantar.",
+    "author": "Provérbio Chinês"
+  },
+  {
+    "text": "Nunca deixe ninguém dizer que você não pode.",
+    "author": "Will Smith"
+  },
+  {
+    "text": "A diferença entre um vencedor e um perdedor é a persistência.",
+    "author": "Ayrton Senna"
+  },
+  {
+    "text": "Toda saída é uma entrada para outro lugar.",
+    "author": "Tom Stoppard"
+  },
+  {
+    "text": "Aproveite o dia e faça o que tem que ser feito.",
+    "author": "Epícuro"
+  },
+  {
+    "text": "Vidas grandes são feitas por grandes desafios.",
+    "author": "Augusto Cury"
+  },
+  {
+    "text": "Levante a cabeça, respire fundo e siga em frente.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "Cada dificuldade superada é uma vitória conquistada.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Seja você mesmo e confie em seu potencial.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "A melhor vingança é um grande sucesso.",
+    "author": "Frank Sinatra"
+  },
+  {
+    "text": "Fracassar é a oportunidade de começar de novo com mais inteligência.",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "Dê o seu melhor e o melhor virá.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "O segredo da felicidade é liberdade, o segredo da liberdade é coragem.",
+    "author": "Tucídides"
+  },
+  {
+    "text": "A visão é arte de ver o invisível.",
+    "author": "Jonathan Swift"
+  },
+  {
+    "text": "Para colher é preciso plantar. Para vencer é preciso lutar.",
+    "author": "Ayrton Senna"
+  },
+  {
+    "text": "Sua maior força é agir, mesmo quando não tem certeza.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "Aprenda o valor do erro: é nele que surge o aprendizado.",
+    "author": "Paulo Freire"
+  },
+  {
+    "text": "Aprecie as pequenas vitórias, elas levam às grandes.",
+    "author": "Mary Lou Retton"
+  },
+  {
+    "text": "Seja você a inspiração que procura.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "Lute sempre, nunca desista.",
+    "author": "Augusto Cury"
+  },
+  {
+    "text": "Você é mais forte do que imagina.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "O impossível é só uma questão de opinião.",
+    "author": "Nelson Rodrigues"
+  },
+  {
+    "text": "Nunca subestime a força de um sonho.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "Faça do seu medo a sua motivação.",
+    "author": "Tiger Woods"
+  },
+  {
+    "text": "O sucesso é construído com determinação e perseverança.",
+    "author": "Augusto Cury"
+  },
+  {
+    "text": "Quando a vida te derrubar, levante-se mais forte.",
+    "author": "Rocky Balboa"
+  },
+  {
+    "text": "Não existe triunfo sem perda, não há vitória sem sofrimento.",
+    "author": "J.K. Rowling"
+  },
+  {
+    "text": "Vencer às vezes não é chegar em primeiro, mas sim nunca desistir.",
+    "author": "Ayrton Senna"
+  },
+  {
+    "text": "Mesmo que você erre, não desista. É errando que se aprende.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "text": "Siga seus sonhos, eles conhecem o caminho.",
+    "author": "Kobe Bryant"
+  },
+  {
+    "text": "Cuide bem do seu hoje, pois é nele que você vive.",
+    "author": "Rubem Alves"
+  },
+  {
+    "text": "Nunca pare de aprender.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Viva o hoje, planeje o amanhã e lembre-se do ontem.",
+    "author": "Charles Chaplin"
+  },
+  {
+    "text": "Grandes vitórias são feitas de pequenos esforços diários.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Persista, insista, conquiste.",
+    "author": "Augusto Cury"
+  },
+  {
+    "text": "Transforme sonhos em metas e metas em conquistas.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "A jornada é mais importante que o destino.",
+    "author": "Cora Coralina"
+  },
+  {
+    "text": "O segredo da realização está em nunca desistir.",
+    "author": "Cristiano Ronaldo"
+  },
+  {
+    "text": "Um passo de cada vez já é um avanço no caminho para o sucesso.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "text": "Viva de forma que, quando os outros pensarem em integridade, pensem em você.",
+    "author": "H. Jackson Brown Jr."
+  },
+  {
+    "text": "Ame o que você faz e não terá que trabalhar um único dia da sua vida.",
+    "author": "Confúcio"
+  },
+  {
+    "text": "Busque o desafio, pois só ele revela quem somos.",
+    "author": "Ayrton Senna"
+  },
+  {
+    "text": "Quando você acredita em si mesmo, o impossível torna-se possível.",
+    "author": "Muhammad Ali"
+  },
+  {
+    "text": "Foque na solução, não no problema.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "text": "Persistência realiza o impossível.",
+    "author": "Provérbio Chinês"
+  },
+  {
+    "text": "O mundo pertence aos otimistas.",
+    "author": "Samuel Goldwyn"
+  },
+  {
+    "text": "Você só falha quando desiste.",
+    "author": "Paulo Vieira"
+  },
+  {
+    "text": "A maior conquista é vencer a si mesmo.",
+    "author": "Platão"
+  },
+  {
+    "text": "O fracasso não é o oposto do sucesso, mas parte dele.",
+    "author": "Arianna Huffington"
+  },
+  {
+    "text": "Seja determinado e focado. Grandes coisas nunca vêm do conforto.",
+    "author": "Neil Strauss"
+  },
+  {
+    "text": "O insucesso é apenas uma oportunidade para recomeçar com mais inteligência.",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "Tenha coragem para crescer e paciência para florescer.",
+    "author": "Augusto Cury"
+  },
+  {
+    "text": "Acredite: você é capaz de coisas incríveis.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "O que define o seu sucesso é como você reage diante das dificuldades.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "O que você faz hoje pode melhorar o seu amanhã.",
+    "author": "Ralph Marston"
+  },
+  {
+    "text": "Seja mais forte do que sua melhor desculpa.",
+    "author": "Dan Millman"
+  },
+  {
+    "text": "Não pare até se orgulhar.",
+    "author": "Cristiano Ronaldo"
+  }
+]
